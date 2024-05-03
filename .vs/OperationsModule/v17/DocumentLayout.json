@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Programaci\u00F3n\\Practicas_Progra1\\OperationsModule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5DB017-482C-4474-9751-485B4C8CAC1C}|Main\\Main.csproj|c:\\users\\usuario\\programaci\u00F3n\\practicas_progra1\\operationsmodule\\main\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5DB017-482C-4474-9751-485B4C8CAC1C}|Main\\Main.csproj|solutionrelative:main\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5DB017-482C-4474-9751-485B4C8CAC1C}|Main\\Main.csproj|c:\\users\\usuario\\programaci\u00F3n\\practicas_progra1\\operationsmodule\\main\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5DB017-482C-4474-9751-485B4C8CAC1C}|Main\\Main.csproj|solutionrelative:main\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5DB017-482C-4474-9751-485B4C8CAC1C}|Main\\Main.csproj|c:\\users\\usuario\\programaci\u00F3n\\practicas_progra1\\operationsmodule\\main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5DB017-482C-4474-9751-485B4C8CAC1C}|Main\\Main.csproj|solutionrelative:main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Practicas_Progra1\\OperationsModule\\Main\\Main.cs",
+              "RelativeDocumentMoniker": "Main\\Main.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Practicas_Progra1\\OperationsModule\\Main\\Main.cs",
+              "RelativeToolTip": "Main\\Main.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:45:45.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fibonacci.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Practicas_Progra1\\OperationsModule\\Main\\Fibonacci.cs",
+              "RelativeDocumentMoniker": "Main\\Fibonacci.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Practicas_Progra1\\OperationsModule\\Main\\Fibonacci.cs",
+              "RelativeToolTip": "Main\\Fibonacci.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:58:26.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Practicas_Progra1\\OperationsModule\\Main\\Factorial.cs",
+              "RelativeDocumentMoniker": "Main\\Factorial.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Practicas_Progra1\\OperationsModule\\Main\\Factorial.cs",
+              "RelativeToolTip": "Main\\Factorial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:20:33.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

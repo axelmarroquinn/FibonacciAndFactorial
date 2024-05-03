@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Practicas_Progra1\OperationsModule\Main\bin\Debug\net8.0\Main.exe
+C:\Users\Usuario\Programación\Practicas_Progra1\OperationsModule\Main\bin\Debug\net8.0\Main.deps.json
+C:\Users\Usuario\Programación\Practicas_Progra1\OperationsModule\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+C:\Users\Usuario\Programación\Practicas_Progra1\OperationsModule\Main\bin\Debug\net8.0\Main.dll
+C:\Users\Usuario\Programación\Practicas_Progra1\OperationsModule\Main\bin\Debug\net8.0\Main.pdb
+C:\Users\Usuario\Programación\Practicas_Progra1\OperationsModule\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Practicas_Progra1\OperationsModule\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Practicas_Progra1\OperationsModule\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Practicas_Progra1\OperationsModule\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Practicas_Progra1\OperationsModule\Main\obj\Debug\net8.0\Main.dll
+C:\Users\Usuario\Programación\Practicas_Progra1\OperationsModule\Main\obj\Debug\net8.0\refint\Main.dll
+C:\Users\Usuario\Programación\Practicas_Progra1\OperationsModule\Main\obj\Debug\net8.0\Main.pdb
+C:\Users\Usuario\Programación\Practicas_Progra1\OperationsModule\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Practicas_Progra1\OperationsModule\Main\obj\Debug\net8.0\ref\Main.dll
